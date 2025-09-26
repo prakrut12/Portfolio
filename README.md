@@ -38,12 +38,7 @@ Font Awesome – Icons
 ├── Myprofile.jpg   # Profile image (replace with yours)
 └── README.md       # Project documentation
 
-⚙️ Setup & Usage
-
-Clone this repository:
-
-git clone https://github.com/your-username/interactive-portfolio.git
-
+⚙️ Setup & Usage:
 
 Open the project folder:
 
