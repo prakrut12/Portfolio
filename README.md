@@ -52,5 +52,6 @@ open index.html
 # Example (Windows)
 start index.html
 
-https://prakruthisportfolio.netlify.app/
+visit link:
+https://prakrut12.github.io/Portfolio/
 
