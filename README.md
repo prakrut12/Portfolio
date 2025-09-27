@@ -44,7 +44,6 @@ Open the project folder:
 
 cd interactive-portfolio
 
-
 Open index.html in your browser.
 
 # Example (Linux/Mac)
